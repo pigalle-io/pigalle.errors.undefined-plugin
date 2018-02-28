@@ -1,8 +1,8 @@
 {
   "name": "@pigalle/errors.undefined-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An exception to throw when a Pigalle plugin is undefined. ",
-  "main": "lib/index.js",
+  "main": "lib/undefined-plugin-error.js",
   "scripts": {
     "test": "nyc mocha",
     "lint": "node ./node_modules/standard/bin/cmd.js --fix",
